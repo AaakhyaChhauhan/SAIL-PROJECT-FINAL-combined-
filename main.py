@@ -6,11 +6,11 @@ import plotly.express as px
 
 # Database connection
 db_config = {
-    'host': 'sql12.freesqldatabase.com',
-    'user': 'sql12791553',
-    'password': 'B9Sva3lRQs',
-    'database': 'sql12791553',
-    'port': 3306
+    $host = "your_host";
+$username = "your_username";
+$password = "your_password";
+$dbname = "your_db";
+
 }
 
 def fetch_sales():
