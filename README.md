@@ -9,6 +9,8 @@ Tech Stack
 Frontend	Backend	AI & OCR	Database
 HTML, CSS, JS	PHP (Replit)	Tesseract OCR	MySQL (FreeSQL)
 Chart.js	Streamlit Chatbot	Google Colab + Prophet	
+
+---
 👉 IMPORTANT: This repo originally contained database credentials. They’ve now been removed for security.
 📌 If you're forking this, please add your credentials to a separate config.php file and don’t commit it!
 
