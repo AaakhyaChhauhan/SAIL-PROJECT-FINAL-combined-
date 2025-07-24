@@ -1,5 +1,5 @@
 # SAIL-PROJECT-FINAL
-his is a full-stack Vendor Invoice Management System built as part of my internship at Steel Authority of India Limited (SAIL). It helps streamline invoice uploads, approvals, and sales predictions using OCR and AI.
+This is a full-stack Vendor Invoice Management System built as part of my internship at Steel Authority of India Limited (SAIL). It helps streamline invoice uploads, approvals, and sales predictions using OCR and AI.
 ![AI-powered Invoice Dashboard](./banner3.png)
 
 Login/register→ Upload Invoice →  Extract Text (OCR) → Store in MySQL →  Use in Chatbot or Dashboard
