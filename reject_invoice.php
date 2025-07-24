@@ -4,12 +4,10 @@ if (!isset($_SESSION['username'])) {
     header("Location: index.php");
     exit();
 }
-
-$host = "sql12.freesqldatabase.com";
-$user = "sql12791553";
-$password = "B9Sva3lRQs";
-$dbname = "sql12791553";
-$port = 3306;
+$host = "your_host";
+$username = "your_username";
+$password = "your_password";
+$dbname = "your_db";
 
 $conn = new mysqli($host, $user, $password, $dbname, $port);
 
