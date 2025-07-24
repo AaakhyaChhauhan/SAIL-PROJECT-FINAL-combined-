@@ -4,16 +4,6 @@ This is a full-stack Vendor Invoice Management System built as part of my intern
 
 Login/register→ Upload Invoice →  Extract Text (OCR) → Store in MySQL →  Use in Chatbot or Dashboard
 SAIL-PROJECT/
-├── index.php               # Login page
-├── register.php            # Registration
-├── dashboard.php           # Dashboard view
-├── upload.php              # Invoice upload with OCR
-├── chatbot.py              # AI chatbot (sales predictions)
-├── invoice_status.php      # Admin view to approve/reject
-├── db.php                  # DB connection
-├── /screenshots/           # Screenshots for README
-├── README.md               # This file
-└── ...
 
 Tech Stack
 Frontend	Backend	AI & OCR	Database
