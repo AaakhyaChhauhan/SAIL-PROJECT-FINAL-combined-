@@ -1,0 +1,13 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "mysql-connector-python>=9.4.0",
+    "pandas>=2.3.1",
+    "plotly>=6.2.0",
+    "prophet>=1.1.7",
+    "streamlit>=1.47.0",
+]
